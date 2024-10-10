@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    background-color: #D1CAC5;
+ }
+ #cercle{
+    width: 192px;
+    height: 192px;
+    border-radius: 192px;
+    background: #CBB442;
+ }
+ #rectangle1{
+    width: 320px;
+    height: 64px;
+    background-color: #CE7B4C;
+ }
+#rectangle2{
+    width: 64px;
+    height: 480.23px;
+    background-color: #2A8FB9;
+}
+#rectangle3{
+    width: 448px;
+    height: 64px;
+    background-color: #2B594E;
+}
+#triangle{
+    width: 0;
+    height: 0;
+    border-right: ;
+    border-left: ;
+}
+#ellipse{
+    width: 400px;
+    height: 256px;
+    border-radius: 680px;
+    background-color: aquamarine;
+}
